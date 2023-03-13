@@ -1,1 +1,0 @@
-import{_ as e,o as t,c as n,a}from"./app.7609aa10.js";const f=JSON.parse('{"title":"Who is Building Bitcoin Cows?","description":"","frontmatter":{},"headers":[],"relativePath":"team.md"}'),r={name:"team.md"},o=a("",9),i=[o];function s(c,h,d,l,m,b){return t(),n("div",null,i)}const g=e(r,[["render",s]]);export{f as __pageData,g as default};
