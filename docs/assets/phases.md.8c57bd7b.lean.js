@@ -1,0 +1,1 @@
+import{_ as t,o as e,c as a,a as r}from"./app.4bdd8d54.js";const b=JSON.parse('{"title":"Reservation Phases","description":"","frontmatter":{},"headers":[],"relativePath":"phases.md"}'),s={name:"phases.md"},n=r("",8),d=[n];function o(i,l,c,h,p,y){return e(),a("div",null,d)}const x=t(s,[["render",o]]);export{b as __pageData,x as default};
