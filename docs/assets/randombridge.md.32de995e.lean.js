@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as a,N as r}from"./chunks/framework.da3b0f29.js";const g=JSON.parse('{"title":"Randomization Bridge","description":"","frontmatter":{},"headers":[],"relativePath":"randombridge.md"}'),i={name:"randombridge.md"},o=r("",16),s=[o];function n(h,l,d,c,m,u){return t(),a("div",null,s)}const p=e(i,[["render",n]]);export{g as __pageData,p as default};
