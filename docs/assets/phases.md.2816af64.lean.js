@@ -1,1 +1,0 @@
-import{_ as t,o as e,c as a,N as r}from"./chunks/framework.da3b0f29.js";const b=JSON.parse('{"title":"Reservation Phases","description":"","frontmatter":{},"headers":[],"relativePath":"phases.md"}'),s={name:"phases.md"},o=r("",8),n=[o];function d(l,i,c,h,p,y){return e(),a("div",null,n)}const x=t(s,[["render",d]]);export{b as __pageData,x as default};
