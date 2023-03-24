@@ -1,0 +1,1 @@
+import{_ as e,o as t,c as n,N as a}from"./chunks/framework.da3b0f29.js";const f=JSON.parse('{"title":"Who is Building Bitcoin Cows?","description":"","frontmatter":{},"headers":[],"relativePath":"team.md"}'),o={name:"team.md"},r=a("",9),i=[r];function s(c,h,d,l,m,b){return t(),n("div",null,i)}const p=e(o,[["render",s]]);export{f as __pageData,p as default};
